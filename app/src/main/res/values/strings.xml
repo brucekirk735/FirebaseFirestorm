@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Firebase Firestorm</string>
+    <string name="editTextQuote">Enter a Quote</string>
+    <string name="editTextAuthor">Author</string>
+
+</resources>
